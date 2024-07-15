@@ -18,7 +18,7 @@ html.fixed {
 }
 
 body {
-  height: 10000px;
+  /* height: 10000px; */
   font-family: "Roboto", "Noto Sans KR", sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -546,6 +546,7 @@ nav .menu li.active:hover a {
 /* Main */
 main {
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 /* Hero */
